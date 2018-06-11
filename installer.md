@@ -10,5 +10,5 @@ After that, you have to [setup Clover Bootloader](clover.md) to boot into macOS 
 
 ----
 
-Thank to [Sydney](https://www.reddit.com/u/crowdedconfirm) for his/
+Thank to [Sydney](https://www.reddit.com/u/crowdedconfirm) for his macOS installer direct link
 
